@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+prompt-cache-results.jsonl
